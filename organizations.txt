@@ -1,0 +1,12 @@
+PwC Australia	www.pwc.com.au	21.151.157.145	1500
+KPMG Australia	www.home.kpmg.com.au	211.177.117.21	1000
+Westpac Group	www.westpac.com.au	29.12.198.50	900
+Commonwealth Bank	www.commbank.com.au	72.175.10.245	850
+Wesfarmers	www.wesfarmers.com.au	205.162.197.134	1050
+Qantas	www.qantas.com	54.91.8.127	990
+CIMIC Group	www.cimic.com.au	152.132.20.112	1140
+Deloitte Australia	www2.deloitte.com.au	132.240.112.93	540
+Macquarie Group Limited	www.macquarie.com	201.15.215.75	660
+Telstra Corporation Limited	www.telstra.com.au	52.7.5.141	140
+Lahore	www.lahore.com	123.2324.12.11	234
+India	www.india.com	123.3435.22.11	1223
